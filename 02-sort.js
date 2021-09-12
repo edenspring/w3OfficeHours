@@ -7,7 +7,7 @@
 
  const bridge4 = [
                     'Kaladin',
-                    'Teft,
+                    'Teft',
                     'Lopen',
                     'Dabbid',
                     'Rock',
